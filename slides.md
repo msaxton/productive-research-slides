@@ -1,0 +1,104 @@
+## Tips for Productive Research
+#### Tisch Library
+
+
+## 1. Get to know your librarian.
+
+## Hello, I'm Micah.
+<img src="./images/saxton_profile.jpg" height=300 style="border-radius: 50%">
+<br>
+micah.saxton@tufts.edu
+
+
+### 2. Reference sources can help you find and/or narrow your research topic.
+
+What is a reference source?
+
+A reference source summarizes and synthesizes secondary sources. Typically, a reference source does not contain original research. These sources provide important background and contextual information on your topic.
+
+Examples of reference sources:
+* Dictionaries
+* Encyclopedias
+* Handbooks
+* Bibliographies
+
+
+### 3. Combine keywords and subject terms for efficient searching
+
+* Keywords ("Any field") searches:
+    * title
+    * author
+    * table of contents / summary (if available)
+    * subjects
+
+Use the who, what, where, when, why, and/or how from your topic as keywords.
+
+Example topics?
+
+_Subject terms_ are controlled vocabularies assigned to sources by librarians. Subject searches may return fewer sources, but the results are usually more relevant.
+
+#### How to find subject terms
+1. Examine the subject terms associated with items returned from keyword searching.
+2. Browse the subject terms used in the database.
+
+
+### 4. There is no perfect database.
+
+* Do I need primary or secondary sources?
+* What kind of primary source do I need?
+* Do I need a primary sources from a specific time period or region?
+* What kind of secondary source do I need?
+* Do I need a specific disciplinary focus like sociology or history?
+
+
+### 5. Use Google, but use it wisely.
+
+Using Google wisely
+* Google does not contain (index) all available sources.
+* Google will customize your search results based your previous searches.
+* Google does not rank its results based on credibility.
+* [Google Scholar](https://scholar.google.com/) is more useful for finding scholarly literature than the main Google search.
+
+
+### 6. Evaluate your sources
+
+What makes for a good source?
+
+#### Relevance
+* For books: look through the index for your key terms.
+* For articles: read the abstract for the main points.
+* Skim the introduction to get a sense of the source.
+* Check the bibliography to see what other authors this author is in conversation with.
+
+#### Reliability
+* Is it published by a reputable publisher?
+* Is the author an expert in the field?
+* Has the source been peer-reviewed?
+* Does the source have sufficient notes and a bibliography?
+* Has the source been well-received? (Book reviews and citations)
+
+
+### 7. Select sources that are in conversation with one another.
+
+<a href="https://imgflip.com/i/5skap8"><img src="https://i.imgflip.com/5skap8.jpg" title="made at imgflip.com"/></a>
+
+How do I find sources in conversation with one another?
+* Pay attention to the citations in your sources
+* Use databases that show what sources are cited by other sources
+    * [Google Scholar](https://scholar.google.com/)
+    * [Arts & Humanities Citation Index](https://www-webofscience-com.ezproxy.library.tufts.edu/wos/woscc/basic-search)
+
+
+### 8. Document your research and manage your citations
+
+* Maintain a research log to track database searches, keep an annotated bibliography, and take reading notes.
+* [Sample research log](https://msaxton.notion.site/Sample-Research-Log-5d5743036c394ad184bab74eebf78acd)
+
+* Use [Zotero](https://www.zotero.org/) or similar software to manage your citations.
+* [Quick Start Guide for Zotero](https://www.zotero.org/support/quick_start_guide)
+
+
+### Remember, I'm here to help with your research.
+<img src="./images/saxton_profile.jpg" height=300 style="border-radius: 50%">
+<br>
+micah.saxton@tufts.edu
