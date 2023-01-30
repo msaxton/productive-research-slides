@@ -77,18 +77,7 @@ What makes for a good source?
 * Has the source been well-received? (Book reviews and citations)
 
 
-### 7. Select sources that are in conversation with one another.
-
-<a href="https://imgflip.com/i/5skap8"><img src="https://i.imgflip.com/5skap8.jpg" title="made at imgflip.com"/></a>
-
-How do I find sources in conversation with one another?
-* Pay attention to the citations in your sources
-* Use databases that show what sources are cited by other sources
-    * [Google Scholar](https://scholar.google.com/)
-    * [Arts & Humanities Citation Index](https://www-webofscience-com.ezproxy.library.tufts.edu/wos/woscc/basic-search)
-
-
-### 8. Document your research and manage your citations
+### 7. Document your research and manage your citations
 
 * Maintain a research log to track database searches, keep an annotated bibliography, and take reading notes.
 * [Sample research log](https://msaxton.notion.site/Sample-Research-Log-5d5743036c394ad184bab74eebf78acd)
